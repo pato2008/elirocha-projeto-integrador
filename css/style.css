@@ -71,11 +71,13 @@ div a {
 .instagram {
     background-color:#dd2c7e;
     color: white;
+    border-radius: 8px;
 }
 
 .facebook {
     background-color:#2c48dd;
     color: white;
+    border-radius: 8px;
 }
 
 
