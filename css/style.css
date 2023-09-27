@@ -33,12 +33,25 @@ h2 {
 
 }
 
-.footer {
+.endereco1 {
     font-size: 14px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.endereco2{
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.telefone {
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
     font-style: italic;
 }
 
+#container {
+    
+}
 
 
 
